@@ -1,6 +1,6 @@
 # CodeBook - Getting and Cleaning Data Project
 
-## Data Transformation 
+## Data Transformation
 
 -   Merged training and test data sets to create one data set
 
